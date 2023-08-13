@@ -52,6 +52,16 @@
         include 'pages/type-1/page-4/page-4.php';
     ?>
         </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-1/page-5/page-5.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-1/page-6/page-6.php';
+    ?>
+        </div>
 
         <div class="pdf-container">
             <?php
@@ -64,10 +74,75 @@
         include 'pages/type-9/page-8/page-8.php';
     ?>
         </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-9/page-9.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-10/page-10.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-11/page-11.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-12/page-12.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-13/page-13.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-14/page-14.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-15/page-15.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-16/page-16.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-17/page-17.php';
+    ?>
+        </div>
 
         <div class="pdf-container">
             <?php
         include 'pages/type-9/page-18/page-18.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-19/page-19.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-20/page-20.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-21/page-21.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-22/page-22.php';
     ?>
         </div>
 
@@ -76,16 +151,96 @@
         include 'pages/type-9/page-23/page-23.php';
     ?>
         </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-24/page-24.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-25/page-25.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-26/page-26.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-27/page-27.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-28/page-28.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-29/page-29.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-30/page-30.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-31/page-31.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-32/page-32.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-33/page-33.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-34/page-34.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-35/page-35.php';
+    ?>
+        </div>
 
         <div class="pdf-container">
             <?php
         include 'pages/type-9/page-36/page-36.php';
     ?>
         </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-37/page-37.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-38/page-38.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-39/page-39.php';
+    ?>
+        </div>
 
         <div class="pdf-container">
             <?php
         include 'pages/type-9/page-40/page-40.php';
+    ?>
+        </div>
+        <div class="pdf-container">
+            <?php
+        include 'pages/type-9/page-41/page-41.php';
     ?>
         </div>
 
