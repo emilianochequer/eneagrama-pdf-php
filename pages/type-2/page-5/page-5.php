@@ -1,7 +1,7 @@
 <body>
-   <div class="page-5-container"></div> 
+   <div class="type-2-page-5-container"></div> 
 </body>
 <style>
-  <?php include 'pages/type-1/page-5/style.css';
+  <?php include 'pages/type-2/page-5/style.css';
   ?>
   </style>

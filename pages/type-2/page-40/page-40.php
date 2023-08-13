@@ -30,7 +30,7 @@
                 </p>
                 <div class="overlap">
                     <img class="element" alt="Element" src="pages/type-2/page-40/2healthy.jpg" />
-                    <img class="logo" alt="Logo" src="pages/type-1/page-40/logo-enneagram-universe-1-2.png" />
+                    <img class="logo" alt="Logo" src="pages/type-2/page-40/logo-enneagram-universe-1-2.png" />
                 </div>
             </div>
         </div>

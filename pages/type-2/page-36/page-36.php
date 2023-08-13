@@ -3,7 +3,7 @@
         <div class="div">
             <div class="page-36-row-container">
                 <div class="first-row">
-                    <img class="logo" alt="Logo" src="pages/type-1/page-36/logo-enneagram-universe-1-1.png" />
+                    <img class="logo" alt="Logo" src="pages/type-2/page-36/logo-enneagram-universe-1-1.png" />
                 </div>
                 <div class="page-36-second-row">
                     <h1 class="h-1">Professional Development</h1>
@@ -108,7 +108,7 @@
                                 </div>
                                 <div>
                                     <img class="enneagram-the" alt="Enneagram the"
-                                        src="pages/type-1/page-36/enneagram-1-the-reformer-nb.png" />
+                                        src="pages/type-2/page-36/enneagram-1-the-reformer-nb.png" />
                                 </div>
                             </div>
                         </div>
@@ -124,6 +124,6 @@
     </div>
 </body>
 <style>
-<?php include 'pages/type-1/page-36/style.css';
+<?php include 'pages/type-2/page-36/style.css';
 ?>
 </style>

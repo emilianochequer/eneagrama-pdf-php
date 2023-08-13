@@ -13,7 +13,7 @@ body {
   height: 1132px;
   box-shadow: 0px 5.38px 5.38px 0px rgba(0, 0, 0, 0.25);
   overflow: hidden;
-  background-image: url("pages/type-1/page-1/background-first-page.png");
+  background-image: url("pages/type-2/page-1/background-first-page.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -23,7 +23,7 @@ body {
 }
 
 .rectangle-background {
-  background: #dba5d0;
+  background: #705E92;
   width: 799.93px;
   height: 1132px;
 }
@@ -74,7 +74,7 @@ body {
 }
 
 .enneagram-type {
-  color: #dba5d0;
+  color: #705E92;
   text-align: center;
   font-family: "Roboto", sans-serif;
   font-size: 67.221px;

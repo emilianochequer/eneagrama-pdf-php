@@ -1,7 +1,7 @@
 <body>
     <div class="page-8">
         <div class="page-8-row-container">
-            <img class="logo" alt="Logo" src="pages/type-1/page-8/logo-enneagram-universe-1-1.png" />
+            <img class="logo" alt="Logo" src="pages/type-2/page-8/logo-enneagram-universe-1-1.png" />
 
             <h1 class="page-8-text-wrapper">How do you Love?</h1>
             <p class="love-must-be-the">

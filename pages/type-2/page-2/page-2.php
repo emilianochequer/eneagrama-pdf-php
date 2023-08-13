@@ -2,7 +2,7 @@
     <div class="p-1">
         <div class="page-2-row-container">
             <div class="first-row">
-                <img class="logo" alt="Logo" src="pages/type-1/page-2/logo-enneagram-universe-1-1.png"></img>
+                <img class="logo" alt="Logo" src="pages/type-2/page-2/logo-enneagram-universe-1-1.png"></img>
             </div>
             <div class="page-2-second-row">
                 <div class="p-1__hi-name-you-re-most-like">
