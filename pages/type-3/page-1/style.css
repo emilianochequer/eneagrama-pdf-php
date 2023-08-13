@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+}
+
+.container,
+.container * {
+  box-sizing: border-box;
+}
+
+.container {
+  background: #ffffff;
+  width: 800px;
+  height: 1132px;
+  box-shadow: 0px 5.38px 5.38px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  background-image: url("pages/type-3/page-1/background-first-page.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.rectangle-background {
+  background: #7685CB;
+  width: 799.93px;
+  height: 1132px;
+}
+
+.enneagram-image {
+  width: 625.15px;
+  height: 717.92px;
+}
+
+.report-name {
+  color: #ffffff;
+  text-align: center;
+  margin-top: 130px;
+}
+
+.report-name-span {
+  color: #ffffff;
+  font: 200 47.05px "Roboto", sans-serif;
+}
+
+.report-name-span2 {
+  color: #ffffff;
+  font: 700 italic 53.78px "Roboto", sans-serif;
+}
+
+.logo-image {
+  width: 207.04px;
+  height: 52.43px;
+}
+
+.ellipse {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2.69px;
+  width: 1125.28px;
+  height: 1132px;
+}
+
+.rectangle {
+  background: #ffffff;
+  width: 800px;
+  height: 92px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 360px;
+}
+
+.enneagram-type {
+  color: #7685CB;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 67.221px;
+  font-style: normal;
+  font-weight: 200;
+  line-height: normal;
+}
+
+.rectangle-border {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1.34px;
+  width: 766.32px;
+  height: 1093.01px;
+}
+
+.logo-container {
+  margin-top: 339px;
+}

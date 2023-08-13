@@ -1,0 +1,169 @@
+body {
+  margin: 0;
+}
+
+.page-8 {
+  background-color: #ffffff;
+  width: 800px;
+  height: 1132px;
+}
+
+.page-8 .page-8-text-wrapper {
+  color: #000000;
+  font-family: "Roboto-Bold", Helvetica;
+  font-size: 27px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.page-8 .love-must-be-the {
+  color: #000000;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 16.2px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 27.31px;
+}
+
+.page-8 .logo {
+  height: 40px;
+  display: flex;
+  align-self: flex-end;
+}
+
+.page-8 .flex-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2.7px;
+  height: 226px;
+  width: 660px;
+}
+
+.page-8 .page-8-text {
+  align-self: stretch;
+  color: #5c5c5c;
+  font-family: "Roboto-Light", Helvetica;
+  font-size: 18.9px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+}
+
+.page-8 .span {
+  font-weight: 300;
+}
+
+.page-8 .page-8-text-wrapper-2 {
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  margin-top: 12.13px;
+}
+
+.page-8 .span-wrapper {
+  align-self: stretch;
+  color: #5c5c5c;
+  font-family: "Roboto-Light", Helvetica;
+  font-size: 18.9px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.page-8 .page-8-text-2 {
+  align-self: stretch;
+  color: #5c5c5c;
+  font-family: "Roboto-Light", Helvetica;
+  font-size: 18.9px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -23px;
+  text-align: center;
+}
+
+.page-8 .page-8-text-wrapper-3 {
+  color: #5c5c5c;
+  font-family: "Roboto-LightItalic", Helvetica;
+  font-size: 21.6px;
+  font-style: italic;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  margin-bottom: 20px;
+}
+
+.page-8 .line {
+  height: 1px;
+  margin-top: 66.12px;
+  margin-bottom: 20px;
+  width: 660px;
+  scale: 2;
+}
+
+.page-8 .page-8-overlap-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 55.6px;
+  width: 660px;
+}
+
+.page-8 .img {
+  height: 1px;
+  width: 660px;
+  scale: 2;
+  margin-top: -70px;
+}
+
+.page-8 .group {
+  height: 220px;
+  width: 331px;
+}
+
+.page-8 .page-8-page-8-text-wrapper-4 {
+  color: #979797;
+  font: 400 italic 13.44px "Roboto", sans-serif;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.page-8 .page-8-text-wrapper-5 {
+  margin: 0;
+  color: #979797;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 13.5px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  display: flex;
+  justify-content: flex-end;
+  white-space: nowrap;
+  width: 100%;
+}
+.page-8-row-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 68px 32px 68px;
+  box-sizing: border-box;
+  height: 1132px;
+}
+
+.page-8-last-row {
+  margin-top: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}

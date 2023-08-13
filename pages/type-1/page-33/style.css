@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+}
+.p-32,
+.p-32 * {
+  box-sizing: border-box;
+}
+.p-32 {
+  background: #ffffff;
+  width: 799.93px;
+  height: 1132px;
+  overflow: hidden;
+}
+.p-32__possible-conflicts-and-differences-of-opinion-it-s-important-to-take-into-account-that-the-same-motives-that-once-united-them-can-be-the-ones-that-will-break-them-up-their-striking-differences-as-if-they-were-ice-and-fire-they-can-easily-be-friends-or-colleagues-but-they-make-a-particularly-rare-romantic-match-making-intimacy-between-them-a-little-rough-first-both-of-them-want-to-be-in-charge-and-accomplish-significant-things-nothing-bad-right-nevertheless-sometimes-it-s-impossible-for-them-to-agree-on-the-means-and-paths-to-be-taken-on-one-hand-ones-tend-to-be-self-controlled-and-inflexible-they-often-deny-themselves-the-pleasure-of-acting-on-their-real-desires-and-impulses-due-to-their-moral-convictions-and-inflexibility-that-is-one-of-the-reasons-why-they-admire-the-ideas-freedom-and-creativity-of-eights-they-go-after-whatever-they-want-however-when-ones-see-their-partners-going-too-far-in-the-pursuit-of-their-self-interest-they-might-consider-them-as-selfish-insensitive-untrustworthy-and-self-centered-they-admire-their-bravery-but-they-know-how-much-chaos-and-destruction-it-could-create-in-their-lives-on-the-other-hand-eights-consider-ones-as-hypocrite-rigid-self-righteous-and-utterly-unrealistic-about-the-way-the-world-works-often-eights-will-act-outrageously-to-provoke-morally-judgmental-ones-in-these-situations-both-respond-with-anger-and-get-into-rigid-positions-and-feel-they-can-t-back-down-violent-arguments-may-also-arise-ending-in-personal-attacks-in-these-types-of-relationships-solutions-might-be-difficult-to-find-once-a-certain-line-has-been-crossed {
+  color: #000000;
+  text-align: left;
+  width: 660.11px;
+}
+
+.left-block {
+  color: #ffffff;
+  text-align: left;
+  font: 700 italic 21.51px "Roboto", sans-serif;
+  background: #dba5d0;
+  width: 633.22px;
+  height: 43.02px;
+  border-top-right-radius: 22px;
+  border-bottom-right-radius: 22px;
+  margin-left: -167px;
+  display: flex;
+  align-items: center;
+}
+.data-container {
+  color: #000000;
+  text-align: left;
+  width: 658.76px;
+  height: 445px;
+}
+.data-container-span {
+  color: #000000;
+  font: 700 18.82px "Roboto", sans-serif;
+}
+.data-container-span2 {
+  color: #000000;
+  font: 400 16.13px "Roboto", sans-serif;
+}
+.row-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 68px 32px 68px;
+  box-sizing: border-box;
+  height: 1132px;
+}
+
+.first-row {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.second-row {
+  margin-bottom: 20px;
+}
+.last-row {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  align-items: flex-end;
+  width: 100%;
+  justify-content: flex-end;
+}
+
+.last-row-last-item {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  width: 100%;
+}
+
+.last-row-text {
+  color: #979797;
+  font-family: "Roboto-Italic", Helvetica;
+  font-size: 13.4px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.last-row-number {
+  color: #979797;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 13.4px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.third-row {
+  margin-top: 20px;
+}

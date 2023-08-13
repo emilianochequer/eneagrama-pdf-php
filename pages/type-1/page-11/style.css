@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+}
+.p-10,
+.p-10 * {
+  box-sizing: border-box;
+}
+.p-10 {
+  background: #ffffff;
+  width: 801.34px;
+  height: 1134px;
+  overflow: hidden;
+}
+.p-10__however-they-do-so-very-differently-enneagram-type-9-seems-to-move-away-from-instinct-while-enneagram-type-8-and-enneagram-type-1-respectively-over-and-under-express-what-their-instinct-says-to-them-as-they-lose-control-the-three-members-of-this-enneagram-triad-have-to-deal-with-anger-either-by-letting-it-out-or-repressing-it-it-s-their-gut-they-trust-to-determine-whether-the-surroundings-are-safe-or-even-fair-and-any-lack-of-balance-can-make-these-enneatypes-very-uncomfortable-that-s-when-their-defense-mechanisms-kick-in {
+  color: #000000;
+  text-align: left;
+  font: 400 16.16px "Roboto", sans-serif;
+  width: 670.7px;
+  height: 176.43px;
+}
+
+.p-10__why-do-enneagram-type-1-belong-to-the-gut-triad-enneagram-type-1-s-use-their-instincts-to-compare-reality-to-their-own-ideals-and-standards-their-gut-tells-them-what-needs-to-be-changed-and-what-s-not-fair-so-they-can-take-action-as-they-seek-integrity-enneagram-1-types-try-to-ease-their-instincts-and-adjust-them-to-what-s-right {
+  color: #ffffff;
+  text-align: left;
+  width: 491.58px;
+  height: 258.58px;
+}
+.p-10-why-do-enneagram-type-1-belong-to-the-gut-triad-enneagram-type-1-s-use-their-instincts-to-compare-reality-to-their-own-ideals-and-standards-their-gut-tells-them-what-needs-to-be-changed-and-what-s-not-fair-so-they-can-take-action-as-they-seek-integrity-enneagram-1-types-try-to-ease-their-instincts-and-adjust-them-to-what-s-right-span {
+  color: #ffffff;
+  font: 700 21.55px "Roboto", sans-serif;
+}
+.p-10-why-do-enneagram-type-1-belong-to-the-gut-triad-enneagram-type-1-s-use-their-instincts-to-compare-reality-to-their-own-ideals-and-standards-their-gut-tells-them-what-needs-to-be-changed-and-what-s-not-fair-so-they-can-take-action-as-they-seek-integrity-enneagram-1-types-try-to-ease-their-instincts-and-adjust-them-to-what-s-right-span2 {
+  color: #ffffff;
+  font: 400 16.16px "Roboto", sans-serif;
+}
+.p-10-why-do-enneagram-type-1-belong-to-the-gut-triad-enneagram-type-1-s-use-their-instincts-to-compare-reality-to-their-own-ideals-and-standards-their-gut-tells-them-what-needs-to-be-changed-and-what-s-not-fair-so-they-can-take-action-as-they-seek-integrity-enneagram-1-types-try-to-ease-their-instincts-and-adjust-them-to-what-s-right-span3 {
+  color: #ffffff;
+  font: 400 18.86px "Roboto", sans-serif;
+}
+
+.row-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 68px 32px 68px;
+  box-sizing: border-box;
+  height: 1132px;
+}
+
+.last-row {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  align-items: flex-end;
+  width: 100%;
+  justify-content: flex-end;
+}
+
+.last-row-last-item {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  width: 100%;
+}
+
+.last-row-text {
+  color: #979797;
+  font-family: "Roboto-Italic", Helvetica;
+  font-size: 13.4px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.last-row-number {
+  color: #979797;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 13.4px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.first-row {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
+.pink-container {
+  margin-top: 55px;
+  background-color: #dba5d0;
+  filter: drop-shadow(
+    0px 5.387173175811768px 5.387173175811768px rgba(0, 0, 0, 0.25)
+  );
+  width: 569.694px;
+  height: 304.375px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text-container {
+  margin-top: 27px;
+}

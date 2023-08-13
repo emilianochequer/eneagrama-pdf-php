@@ -1,0 +1,260 @@
+body {
+  margin: 0;
+}
+
+.p-1,
+.p-1 * {
+  box-sizing: border-box;
+}
+.p-1 {
+  background: #ffffff;
+  width: 799.93px;
+  height: 1132px;
+  position: relative;
+  overflow: hidden;
+}
+.p-1__rectangle-49 {
+  background: #d9d9d9;
+  width: 92.76px;
+  height: 279.64px;
+  position: absolute;
+  left: 180.15px;
+  top: 1132px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+.p-1__rectangle-51 {
+  background: #C8CE2C;
+  width: 92.76px;
+  height: 361.65px;
+  position: absolute;
+  left: 276.95px;
+  top: 1132px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+.p-1__rectangle-50 {
+  background: #d9d9d9;
+  width: 92.76px;
+  height: 215.11px;
+  position: absolute;
+  left: 373.75px;
+  top: 1132px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+
+.p-1__one-you-are-the-idealist-and-principled-you-re-the-one-who-self-convinced-and-justice-oriented-raises-yourself-up-to-your-highest-version-on-your-path-towards-becoming-the-highest-version-of-yourself-as-a-type-6-you-tend-to-be-a-practical-and-strong-person-who-takes-the-time-to-analyze-and-discern-what-s-best-by-being-consistent-with-your-ideals-you-expect-to-reform-the-world-and-you-strive-to-reach-that-goal {
+  color: #000000;
+  text-align: left;
+  font: 400 16.13px "Roboto", sans-serif;
+
+  left: 68.57px;
+  top: 371.06px;
+  width: 330.73px;
+}
+.p-1__overview-of-your-type {
+  color: #000000;
+  text-align: left;
+  font: 700 24.2px "Roboto", sans-serif;
+  text-decoration: underline;
+  margin: 15px 0;
+}
+.p-1__hi-name-you-re-most-like {
+  color: #000000;
+  text-align: left;
+  font: 700 32.27px "Roboto", sans-serif;
+
+  left: 68.57px;
+  top: 84.7px;
+  width: 540.46px;
+}
+.p-1__the-reformer {
+  color: #C8CE2C;
+  text-align: center;
+  font: 700 53.78px "Roboto", sans-serif;
+
+  left: 68.57px;
+  top: 129.06px;
+  width: 674.9px;
+}
+
+.p-1___1-circle-el-perfeccionista {
+  width: 344.17px;
+  height: 279.64px;
+
+  left: 399.29px;
+  top: 326.69px;
+}
+
+.p-1__let-s-explore-your-enneagram-test-results {
+  color: #000000;
+  text-align: left;
+  font: 700 21.51px "Roboto", sans-serif;
+
+  left: 68.57px;
+  top: 650.7px;
+}
+.p-1__accuracy-with-your-type {
+  color: #000000;
+  text-align: left;
+  font: 700 18.82px "Roboto", sans-serif;
+  width: 100%;
+}
+.p-1__type-one {
+  color: #ffffff;
+  text-align: left;
+  font: 700 18.82px "Roboto", sans-serif;
+  position: absolute;
+  left: 219.14px;
+  top: 873.87px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.p-1__type-four {
+  color: #000000;
+  text-align: left;
+  font: 700 18.82px "Roboto", sans-serif;
+  position: absolute;
+  left: 122.34px;
+  top: 958.57px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.p-1__type-seven {
+  color: #000000;
+  text-align: left;
+  font: 700 18.82px "Roboto", sans-serif;
+  position: absolute;
+  left: 315.94px;
+  top: 1040.58px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.p-1__based-on-your-awesome-answers-during-the-test-here-s-the-percentage-of-how-well-your-enneatype-matches-up {
+  color: #000000;
+  text-align: left;
+  font: 400 16.13px "Roboto", sans-serif;
+
+  left: 461.14px;
+  top: 845.64px;
+  width: 220.48px;
+}
+.p-1___72 {
+  color: #C8CE2C;
+  text-align: left;
+  font: 900 107.55px "Roboto", sans-serif;
+
+  left: 461.14px;
+  top: 727.33px;
+  width: 220.48px;
+  height: 110.24px;
+}
+.p-1__these-are-the-top-3-enneatypes-that-totally-match-your-personality {
+  color: #000000;
+  text-align: left;
+  font: 400 16.13px "Roboto", sans-serif;
+
+  left: 68.57px;
+  top: 705.82px;
+  width: 330.73px;
+}
+.p-1__fun-fact-15-of-your-city-population-shares-your-type-6-status-how-cool-is-that-you-re-definitely-not-alone {
+  color: #000000;
+  text-align: left;
+  font: 400 16.13px "Roboto", sans-serif;
+
+  left: 513.57px;
+  top: 953.19px;
+  width: 180.15px;
+}
+.p-1__group-11 {
+  left: 461.14px;
+  top: 969.33px;
+  overflow: visible;
+}
+.first-row {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.page-2-row-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 68px 32px 68px;
+  box-sizing: border-box;
+  height: 1132px;
+}
+
+.fourth-row {
+  display: flex;
+  margin-bottom: 40px;
+}
+
+.page-2-last-row {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  align-items: flex-end;
+  width: 100%;
+  justify-content: flex-end;
+  z-index: 1;
+}
+
+.page-2-last-row-last-item {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  width: 100%;
+}
+
+.page-2-last-row-text {
+  color: #979797;
+  font-family: "Roboto-Italic", Helvetica;
+  font-size: 13.4px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.page-2-last-row-number {
+  color: #979797;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 13.4px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.six-row {
+  display: grid;
+  grid-template-areas: "a a";
+  width: 100%;
+}
+
+.location-container {
+  display: flex;
+  margin-top: 20px;
+  gap: 20px;
+  align-items: center;
+}
+
+.page-2-second-row {
+  width: 100%;
+  margin: 7px 0;
+}
+
+.page-2-third-row {
+  margin: 15px 0;
+}
+
+.page-2-fifth-row {
+  width: 100%;
+  margin-bottom: 25px;
+}

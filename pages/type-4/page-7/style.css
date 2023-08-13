@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+}
+
+.p-6,
+.p-6 * {
+  box-sizing: border-box;
+}
+.p-6 {
+  background: #ffffff;
+  width: 800px;
+  height: 1133px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 40px 68px 32px 68px;
+}
+.p-6__history-is-nothing-more-or-less-than-the-story-of-human-passions-strong-people-doing-big-things-moved-by-their-passions-their-ideals-and-trusting-themselves-in-the-same-way-intuition-tells-enneagram-1-s-what-s-best-but-it-s-not-a-leap-of-faith-they-know-that-they-ll-accomplish-their-mission-after-going-a-long-way-when-enneagram-ones-find-out-something-that-s-important-to-them-it-becomes-their-purpose-the-very-thing-that-moves-their-life-forward-and-measures-reality-they-can-transform-things-make-the-world-a-better-place-that-s-really-hard-work-on-enneagram-1-s-shoulders-but-it-s-also-what-guides-them-to-the-highest-feelings-and-brings-them-to-their-best-version-just-like-free-horses-running-wildly-with-blinders-trust-their-legs-an-enneagram-type-one-runs-across-the-field-relying-on-their-ideals {
+  color: #000000;
+  text-align: left;
+  font: 400 16.19px "Roboto", sans-serif;
+  margin-top: 24.68px;
+  width: 659.94px;
+  height: 240.23px;
+}
+.p-6__what-motivates-you-name {
+  color: #000000;
+  text-align: left;
+  font: 700 26.99px "Roboto", sans-serif;
+  text-decoration: underline;
+  padding-top: 12.5px;
+}
+.p-6__how-do-you-think {
+  color: #000000;
+  text-align: left;
+  font: 700 26.99px "Roboto", sans-serif;
+  text-decoration: underline;
+  margin-top: 43.19px;
+}
+.p-6__the-reformer-s-principles-are-like-law-to-them-so-they-feel-the-need-to-follow-them-strictly-knowing-what-is-right-and-wrong-makes-enneagram-type-ones-very-practical-people-who-easily-know-what-to-do-although-this-could-also-drive-them-to-self-repression-to-get-what-needs-to-be-done-done-it-doesn-t-feel-bad-at-that-moment-since-enneagram-1-s-believe-their-worth-depends-on-doing-what-s-right-that-s-how-they-end-up-transferring-their-self-value-over-to-their-values-with-a-high-sense-of-justice-and-responsibility-enneagram-type-ones-stand-up-for-their-convictions-their-self-awareness-allows-them-to-be-reflexive-and-honest-with-themselves-even-though-they-tend-to-oversee-their-behavior-instead-of-having-a-compassionate-look-towards-themselves-somebody-has-to-do-it-to-keep-order {
+  color: #000000;
+  text-align: left;
+  font: 400 16.19px "Roboto", sans-serif;
+  margin-top: 31.43px;
+}
+.p-6__logo-enneagram-universe-1-1 {
+  width: 159.25px;
+  height: 40.49px;
+  display: flex;
+  align-self: flex-end;
+}
+.p-6___6 {
+  color: #989898;
+  text-align: left;
+  font: 400 13.5px "Roboto", sans-serif;
+  margin-left: 100%;
+  margin-top: 36.44px;
+}
+.p-6__enneagram-1-basics {
+  color: #989898;
+  text-align: left;
+  font: 400 italic 13.5px "Roboto", sans-serif;
+  display: flex;
+  justify-content: center;
+}
+.p-6__captura-de-pantalla-2023-03-28-a-la-s-11-56-1 {
+  width: 657.25px;
+  height: 300.96px;
+  margin-top: 31.04px;
+}

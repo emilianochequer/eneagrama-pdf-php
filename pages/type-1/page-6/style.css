@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+}
+.p-5,
+.p-5 * {
+  box-sizing: border-box;
+}
+.p-5 {
+  background: #ffffff;
+  width: 799.93px;
+  height: 1132px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 40px 68px 0px 68px;
+}
+.p-5__rectangle-10 {
+  background: linear-gradient(
+    180deg,
+    rgba(248, 248, 246, 1) 0%,
+    rgba(245, 245, 245, 1) 100%
+  );
+  width: 802px;
+  height: 521.634px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  margin-left: -70px;
+}
+.p-5__enneagram-type-1 {
+  color: #000000;
+  text-align: left;
+  font: 700 32.27px "Roboto", sans-serif;
+  text-decoration: underline;
+}
+.p-5__like-an-eagle-that-flies-up-high-enneagram-1-s-can-see-the-bigger-picture-this-ability-triggers-in-them-an-unstoppable-sense-of-justice-their-ideals-are-important-to-enneagram-ones-as-they-determine-their-upcoming-decisions-as-the-reformer-feels-fearless-to-step-up-and-change-what-s-wrong-sometimes-they-become-very-self-demanding-their-bird-eye-view-gives-them-the-power-to-measure-themselves-within-the-immensity-that-feeds-their-fire {
+  color: #000000;
+  text-align: left;
+  font: 400 16.13px "Roboto", sans-serif;
+  width: 329.38px;
+}
+.p-5__core-fear {
+  color: #000000;
+  text-align: left;
+  font: 700 16.13px "Roboto", sans-serif;
+}
+.p-5__core-desire {
+  color: #000000;
+  text-align: left;
+  font: 700 16.13px "Roboto", sans-serif;
+  padding-top: 28.81px;
+}
+.p-5__being-incorrect-wrong-or-bad {
+  color: #dba5d0;
+  text-align: left;
+  font: 700 italic 29.58px "Roboto", sans-serif;
+  padding-top: 7.89px;
+}
+.p-5__doing-what-s-right-fairness-being-good {
+  color: #dba5d0;
+  text-align: left;
+  font: 700 italic 29.58px "Roboto", sans-serif;
+  padding-top: 7.89px;
+}
+.p-5__how-the-reformer-is {
+  color: #000000;
+  text-align: left;
+  font: 600 26.1px "Roboto", sans-serif;
+  text-decoration: underline;
+  padding-top: 44.01px;
+}
+.p-5__admirably-all-this-lifts-enneagram-type-ones-up-and-makes-them-transcend-themselves-for-something-bigger {
+  color: #000000;
+  text-align: left;
+  font: 400 16.13px "Roboto", sans-serif;
+  width: 660.11px;
+  height: 61.84px;
+  padding-top: 16.33px;
+  margin-bottom: 34.95px;
+}
+.p-5__logo-enneagram-universe-1-1 {
+  width: 158.64px;
+  height: 40.33px;
+  display: flex;
+  align-self: flex-end;
+}
+.p-5___5 {
+  color: #989898;
+  text-align: right;
+  font: 400 13.44px "Roboto", sans-serif;
+  padding-top: 29px;
+  display: flex;
+  margin-left: 700px;
+}
+.p-5__enneagram-1-basics {
+  color: #989898;
+  text-align: left;
+  font: 400 italic 13.44px "Roboto", sans-serif;
+  width: 730px;
+  display: flex;
+  justify-content: center;
+}
+.p-5__enneagram-1-graph-1 {
+  width: 317.28px;
+  height: 290.39px;
+}
+.p-5___1-el-perfeccionista-5 {
+  width: 315.94px;
+  height: 380.47px;
+
+  padding-right: 47.05px;
+}
+.p-5__image-and-core-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 730px;
+}
+.p-5__text-and-image-container {
+  display: flex;
+  flex-direction: row;
+  padding-top: 34.88px;
+}

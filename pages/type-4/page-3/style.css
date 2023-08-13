@@ -1,0 +1,210 @@
+body {
+  margin: 0;
+}
+
+.p-2,
+.p-2 * {
+  box-sizing: border-box;
+}
+.p-2 {
+  background: #ffffff;
+  width: 799.93px;
+  height: 1132px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 78px 68px 32px 68px;
+  align-items: center;
+}
+
+.p-2__how-you-scored-for-each-enneagram-type {
+  color: #000000;
+  text-align: left;
+  font: 700 21.51px "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+ 
+ 
+}
+.p-2__logo-enneagram-universe-1-1 {
+  width: 158.64px;
+  height: 40.33px;
+  display: flex;
+  align-self: flex-end;
+}
+.p-2___2 {
+  color: #989898;
+  text-align: end;
+  font: 400 13.44px "Roboto", sans-serif;
+}
+.p-2__enneagram-1-overview {
+  color: #989898;
+  text-align: center;
+  font: 400 italic 13.44px "Roboto", sans-serif;
+}
+.p-2__image-4 {
+  width: 338.79px;
+  height: 336.1px;
+}
+
+.p-2___9 {
+  color: #000000;
+  text-align: center;
+  font: 700 134.44px "Roboto", sans-serif;
+}
+
+.page-3-third-row {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-image: url("pages/type-4/page-3/personality-and-world.png");
+  height: 100%;
+  background-repeat: no-repeat;
+  align-items: center;
+  background-position: center;
+}
+.page-3-second-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.p-2__of-the-world-population-is-enneagram-type-one-like-you {
+  color: #000000;
+  text-align: left;
+  font: 700 18.82px "Roboto", sans-serif;
+}
+.p-2__enneagram-type-one-worldwide-gender-breakdown {
+  color: #000000;
+  text-align: left;
+  font: 400 16.13px "Roboto", sans-serif;
+  width: 100%;
+  margin-top: 10px;
+}
+.p-2-enneagram-type-one-worldwide-gender-breakdown-span {
+  color: #000000;
+  font: 400 16.13px "Roboto", sans-serif;
+}
+.p-2-enneagram-type-one-worldwide-gender-breakdown-span2 {
+  color: #000000;
+  font: 400 16.13px "Roboto", sans-serif;
+  text-decoration: underline;
+}
+.p-2__check-out-this-rad-chart-below-to-see-how-much-you-vibe-with-different-enneatypes-based-on-your-answers {
+  color: #000000;
+  text-align: left;
+  font: 400 16.13px "Roboto", sans-serif;
+
+ 
+ 
+  width: 673.55px;
+  height: 43.02px;
+}
+.p-2__so-here-s-the-deal-with-your-enneagram-test-results-while-it-indicates-your-dominant-enneagram-type-it-s-pretty-cool-that-you-ve-got-high-scores-spread-across-other-types-that-means-you-ve-got-a-mix-of-personality-traits-from-those-types-in-particular-it-s-like-having-a-diverse-and-complex-personality-buffet-having-multiple-enneagram-types-with-high-scores-suggests-you-ve-got-this-amazing-ability-to-adapt-and-be-versatile-in-different-situations-it-also-means-you-see-and-understand-the-world-from-various-perspectives-and-angles-you-re-a-fascinating-blend-of-different-flavors-and-that-s-something-to-celebrate {
+  color: #000000;
+  text-align: left;
+  font: 400 16.13px "Roboto", sans-serif;
+
+ 
+ 
+  width: 321.32px;
+  height: 352.24px;
+}
+.p-2__group-12 {
+ 
+ 
+  overflow: visible;
+}
+
+.p-2__group-5 {
+ 
+ 
+  overflow: visible;
+}
+.p-2__group-14 {
+  inset: 0;
+}
+
+.p-2__group-6 {
+ 
+ 
+  overflow: visible;
+}
+.p-2___63 {
+  color: #000000;
+  text-align: center;
+  font: 300 40.33px "Roboto", sans-serif;
+
+ 
+ 
+  width: 91.42px;
+  height: 57.81px;
+}
+.p-2___32 {
+  color: #000000;
+  text-align: center;
+  font: 300 40.33px "Roboto", sans-serif;
+
+ 
+ 
+  width: 92.76px;
+  height: 57.81px;
+}
+.p-2___5 {
+  color: #000000;
+  text-align: center;
+  font: 300 40.33px "Roboto", sans-serif;
+
+ 
+ 
+  width: 63.19px;
+  height: 57.81px;
+}
+.p-2__female {
+  color: #000000;
+  text-align: center;
+  font: 300 italic 16.13px "Roboto", sans-serif;
+
+ 
+ 
+  width: 53.78px;
+  height: 20.17px;
+}
+.p-2__male {
+  color: #000000;
+  text-align: center;
+  font: 300 16.13px "Roboto", sans-serif;
+
+ 
+ 
+  width: 34.95px;
+  height: 20.17px;
+}
+.p-2__other {
+  color: #000000;
+  text-align: center;
+  font: 300 16.13px "Roboto", sans-serif;
+
+ 
+ 
+  width: 41.68px;
+  height: 20.17px;
+}
+
+.page-3-fifth-row {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.icon-container {
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+  gap: 5px;
+}
+
+.page-3-last-row {
+  width: 100%;
+}

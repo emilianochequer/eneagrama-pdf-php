@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+}
+
+
+body {
+  margin: 0;
+}
+
+.page-37-container,
+.page-37-container * {
+  box-sizing: border-box;
+}
+
+.page-37-container {
+  background: #ffffff;
+  width: 800px;
+  height: 1132px;
+  box-shadow: 0px 5.38px 5.38px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  background-image: url("pages/type-1/page-37/page-37.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+}
+.p-27,
+.p-27 * {
+  box-sizing: border-box;
+}
+.p-27 {
+  background: #ffffff;
+  width: 799.93px;
+  height: 1132px;
+  position: relative;
+  overflow: hidden;
+}
+.data-container {
+  color: #000000;
+  text-align: left;
+  font: 400 16.13px "Roboto", sans-serif;
+  margin-bottom: 12px;
+  width: 658.76px;
+}
+
+.p-27___5-circle-el-pensador {
+  width: 232.58px;
+  height: 176.12px;
+  transform-origin: 0 0;
+}
+
+.left-block {
+  color: #ffffff;
+  text-align: left;
+  font: 700 italic 21.51px "Roboto", sans-serif;
+  background: #dba5d0;
+  width: 633.22px;
+  height: 43.02px;
+  border-top-right-radius: 22px;
+  border-bottom-right-radius: 22px;
+  margin-left: -167px;
+  display: flex;
+  align-items: center;
+}
+.data-container {
+  color: #000000;
+  text-align: left;
+  width: 658.76px;
+}
+.data-container-span {
+  color: #000000;
+  font: 700 18.82px "Roboto", sans-serif;
+}
+.data-container-span2 {
+  color: #000000;
+  font: 400 16.13px "Roboto", sans-serif;
+}
+.row-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 68px 32px 68px;
+  box-sizing: border-box;
+  height: 1132px;
+}
+
+.first-row {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.second-row {
+  margin-bottom: 9px;
+}
+.last-row {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  align-items: flex-end;
+  width: 100%;
+  justify-content: flex-end;
+}
+
+.last-row-last-item {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  width: 100%;
+}
+
+.last-row-text {
+  color: #979797;
+  font-family: "Roboto-Italic", Helvetica;
+  font-size: 13.4px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.last-row-number {
+  color: #979797;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 13.4px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.fourth-row {
+  margin-top: 10px;
+}
+
+.left-block-text {
+  margin-left: 68px;
+}
+
+.data-row {
+  margin-top: 12px;
+}

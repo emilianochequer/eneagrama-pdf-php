@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+}
+.p-4,
+.p-4 * {
+  box-sizing: border-box;
+}
+.p-4 {
+  background: #dba5d0;
+  width: 799.71px;
+  height: 1131.69px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.p-4__loma-footer-1 {
+  width: 799.71px;
+  height: 243.27px;
+  margin-top: -83px;
+}
+.p-4__enneagram-type-1-the-reformer {
+  color: #ffffff;
+  text-align: left;
+  font: 400 italic 67.2px "Roboto", sans-serif;
+  width: 100%;
+  height: 158px;
+  padding: 186.82px 178.03px 140.38px 84.67px;
+  display: flex;
+  flex-direction: column;
+}
+.p-4__enneagram-type-1-the-reformer span {
+  color: #ffffff;
+  text-align: left;
+  font: 400 italic 63px "Roboto", sans-serif;
+}
+
+.p-4__logo-enneagram-universe-1-1 {
+  width: 158.6px;
+  height: 40.32px;
+  z-index: 2;
+  margin-top: -120px;
+  margin-left: 530px;
+}
+.p-4__enneagram-1-the-reformer-nb-1 {
+  width: 452.94px;
+  height: 504.02px;
+  margin-top: 140px;
+  transform-origin: 0 0;
+  z-index: 1;
+}
+.p-4__images-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
