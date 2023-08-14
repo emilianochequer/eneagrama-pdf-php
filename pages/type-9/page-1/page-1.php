@@ -5,9 +5,6 @@
                     class="report-name-span2">Enneagram
                     Premium Report</span></span>
         </div>
-        <div class="rectangle">
-            <div class="enneagram-type">1. THE REFORMER</div>
-        </div>
     </div>
 </body>
 <style>

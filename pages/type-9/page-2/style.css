@@ -24,7 +24,7 @@ body {
   transform: rotate(180deg) scale(1, 1);
 }
 .p-1__rectangle-51 {
-  background: #FF8B8F;
+  background: #ff8b8f;
   width: 92.76px;
   height: 361.65px;
   position: absolute;
@@ -70,7 +70,7 @@ body {
   width: 540.46px;
 }
 .p-1__the-reformer {
-  color: #FF8B8F;
+  color: #ff8b8f;
   text-align: center;
   font: 700 53.78px "Roboto", sans-serif;
 
@@ -79,9 +79,8 @@ body {
   width: 674.9px;
 }
 
-.p-1___1-circle-el-perfeccionista {
-  width: 344.17px;
-  height: 244.64px;
+.p-1___1-circle-el-peacemaker {
+  height: 200px;
 }
 
 .p-1__let-s-explore-your-enneagram-test-results {
@@ -138,7 +137,7 @@ body {
   width: 220.48px;
 }
 .p-1___72 {
-  color: #FF8B8F;
+  color: #ff8b8f;
   text-align: left;
   font: 900 107.55px "Roboto", sans-serif;
 
@@ -185,9 +184,10 @@ body {
   height: 1132px;
 }
 
-.fourth-row {
+.type-9-page-2-fourth-row {
   display: flex;
   margin-bottom: 40px;
+  align-items: center;
 }
 
 .page-2-last-row {

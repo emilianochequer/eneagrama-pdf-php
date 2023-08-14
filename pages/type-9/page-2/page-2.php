@@ -12,7 +12,7 @@
             <div class="page-2-third-row">
                 <div class="p-1__the-reformer">“The Peacemaker”</div>
             </div>
-            <div class="fourth-row">
+            <div class="type-9-page-2-fourth-row">
                 <div>
                     <div class="p-1__overview-of-your-type">Overview of your Type:</div>
                     <div
