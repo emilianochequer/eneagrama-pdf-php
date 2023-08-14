@@ -33,7 +33,7 @@
         </div>
 
 
-        <div class="p-17__rectangle-29-container">
+        <div class="type-5-page-18-gradient-container">
             <div class="p-17__text">
                 <div
                     class="p-17__on-a-common-day-type-ones-are-energetic-and-purposeful-always-trying-to-take-meaningful-actions-with-an-organized-schedule-it-s-not-difficult-for-them-to-focus-and-determine-what-is-right-from-what-is-not-so-there-enneagram-1-s-go-walking-through-life-with-their-ideal-bars-measuring-everything-that-comes-across-them-if-type-ones-wonder-why-raccoons-and-squirrels-run-from-them-here-s-why-enneagram-1-s-have-wonderful-ideas-on-how-to-change-things-for-the-better-they-also-have-a-stubborn-conviction-which-is-fundamental-to-materialize-projects-and-that-makes-a-type-one-a-natural-leader-most-of-the-time">

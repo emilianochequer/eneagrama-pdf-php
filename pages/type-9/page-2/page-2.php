@@ -10,7 +10,7 @@
                 </div>
             </div>
             <div class="page-2-third-row">
-                <div class="p-1__the-reformer">“The Peacemaker”</div>
+                <div class="type-9-page-2-title">“The Peacemaker”</div>
             </div>
             <div class="type-9-page-2-fourth-row">
                 <div>
@@ -49,7 +49,7 @@
                     <div class="p-1__accuracy-with-your-type">
                         Accuracy with your Type:
                     </div>
-                    <div class="p-1___72">72%</div>
+                    <div class="type-9-page-2-location">72%</div>
                     <div
                         class="p-1__based-on-your-awesome-answers-during-the-test-here-s-the-percentage-of-how-well-your-enneatype-matches-up">
                         Based on your awesome answers during the test, here&#039;s the
@@ -84,7 +84,7 @@
         </div>
         <div class="p-1__rectangle-49"></div>
 
-        <div class="p-1__rectangle-51"></div>
+        <div class="type-9-page-1-first-tendence"></div>
 
         <div class="p-1__rectangle-50"></div>
 

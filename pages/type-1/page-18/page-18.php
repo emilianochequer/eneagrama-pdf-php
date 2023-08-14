@@ -39,7 +39,7 @@
         </div>
 
 
-        <div class="p-17__rectangle-29-container">
+        <div class="type-1-page-18-gradient-container">
             <div class="p-17__text">
                 <div class="p-17__average-enneagram-type-1">Average Enneagram Type 1</div>
 
@@ -62,7 +62,7 @@
             </div>
 
             <div class="p-17__image">
-                <div class="p-17__rectangle-29"></div>
+                <div class="type-1-page-18-gradient"></div>
 
                 <img class="p-17__enneagram-1-the-reformer-1"
                     src="pages/type-1/page-18/enneagram-1-the-reformer-1.svg" />

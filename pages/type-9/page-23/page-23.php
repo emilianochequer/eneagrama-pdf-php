@@ -29,7 +29,7 @@
                 </div>
             </div>
 
-            <div class="left-block">
+            <div class="type-9-page-23-left-block">
                 <p class="left-block-text">
                     Enneagram Type 9 In A Relationship With Type 1
                 </p>

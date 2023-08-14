@@ -2,12 +2,12 @@ body {
   margin: 0;
 }
 
-.container,
-.container * {
+.type-4-page-1-container,
+.type-4-page-1-container * {
   box-sizing: border-box;
 }
 
-.container {
+.type-4-page-1-container {
   background: #ffffff;
   width: 800px;
   height: 1132px;
@@ -73,7 +73,7 @@ body {
   margin-top: 360px;
 }
 
-.enneagram-type {
+.type-4-page-1-enneagram-type {
   color: #4EC1C9;
   text-align: center;
   font-family: "Roboto", sans-serif;

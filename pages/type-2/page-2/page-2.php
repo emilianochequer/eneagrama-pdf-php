@@ -10,7 +10,7 @@
                 </div>
             </div>
             <div class="page-2-third-row">
-                <div class="p-1__the-reformer">“The Helper“</div>
+                <div class="type-2-page-2-title">“The Helper“</div>
                 <div class="page-2-subtitle">Hey! You rocked the Enneagram Universe Test on May 12, 2023 at 1:12pm. You know what's awesome?
                     While most people took about 62 minutes to finish the test, you took your time and completed it in
                     123 minutes! You really put effort and gave it your all. Impressive! Your registered email address
@@ -28,7 +28,7 @@
                         make others your top priority and worry for their wellness.<br/><br/>
                     </div>
                 </div>
-                <img class="p-1___1-circle-el-perfeccionista" src="pages/type-2/page-2/2_circle-El_ayudador.jpg"></img>
+                <img class="type-2-page-2-image-1" src="pages/type-2/page-2/2_circle-El_ayudador.jpg"></img>
             </div>
             <div class="page-2-fifth-row">
                 <div class="p-1__let-s-explore-your-enneagram-test-results">
@@ -46,7 +46,7 @@
                     <div class="p-1__accuracy-with-your-type">
                         Accuracy with your Type:
                     </div>
-                    <div class="p-1___72">72%</div>
+                    <div class="type-2-page-2-location">72%</div>
                     <div
                         class="p-1__based-on-your-awesome-answers-during-the-test-here-s-the-percentage-of-how-well-your-enneatype-matches-up">
                         Based on your awesome answers during the test, here&#039;s the
@@ -81,7 +81,7 @@
         </div>
         <div class="p-1__rectangle-49"></div>
 
-        <div class="p-1__rectangle-51"></div>
+        <div class="type-2-page-1-first-tendence"></div>
 
         <div class="p-1__rectangle-50"></div>
 

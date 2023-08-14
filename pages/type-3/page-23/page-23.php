@@ -31,7 +31,7 @@
                 </div>
             </div>
 
-            <div class="left-block">
+            <div class="type-3-page-23-left-block">
                 <p class="left-block-text">
                     Enneagram Type 3 In A Relationship With Type 1
                 </p>

@@ -1,7 +1,7 @@
 <body>
     <div class="page-40">
-        <div class="page-40-overlap-group-wrapper">
-            <div class="page-40-overlap-group">
+        <div class="type-4-page-40-overlap-group-wrapper">
+            <div class="type-4-page-40-overlap-group">
                 <h1 class="name-s-enneagram">
                     <span class="page-40-text-wrapper">
                         @name&#39;s Enneagram Type 4 Journey

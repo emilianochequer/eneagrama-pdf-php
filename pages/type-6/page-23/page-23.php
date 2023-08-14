@@ -30,7 +30,7 @@
                 </div>
             </div>
 
-            <div class="left-block">
+            <div class="type-6-page-23-left-block">
                 <p class="left-block-text">
                     Enneagram Type 6 In A Relationship With Type 1
                 </p>

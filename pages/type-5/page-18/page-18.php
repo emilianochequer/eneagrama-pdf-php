@@ -38,7 +38,7 @@
         </div>
 
 
-        <div class="p-17__rectangle-29-container">
+        <div class="type-5-page-18-gradient-container">
             <div class="p-17__text">
                 <div class="p-17__average-enneagram-type-5">Average Enneagram Type 5</div>
 
