@@ -2,7 +2,7 @@
     <div class="p-6">
         <img class="p-6__logo-enneagram-universe-1-1" src="pages/type-5/page-7/logo-enneagram-universe-1-1.png" />
 
-        <div class="p-6__what-motivates-you-name">What Motivates You  <?= $user['first_name']; ?>  ?</div>
+        <div class="p-6__what-motivates-you-name">What Motivates You  <?= $user['first_name']; ?></div>
 
         <div
             class="type-5-page-7-text-motivates">

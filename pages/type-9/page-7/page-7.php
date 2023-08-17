@@ -2,7 +2,7 @@
     <div class="p-6">
         <img class="p-6__logo-enneagram-universe-1-1" src="pages/type-9/page-7/logo-enneagram-universe-1-1.png" />
 
-        <div class="p-6__what-motivates-you-name">What Motivates You  <?= $user['first_name']; ?>  ?</div>
+        <div class="p-6__what-motivates-you-name">What Motivates You  <?= $user['first_name']; ?></div>
 
         <div
             class="p-6__history-is-nothing-more-or-less-than-the-story-of-human-passions-strong-people-doing-big-things-moved-by-their-passions-their-ideals-and-trusting-themselves-in-the-same-way-intuition-tells-enneagram-1-s-what-s-best-but-it-s-not-a-leap-of-faith-they-know-that-they-ll-accomplish-their-mission-after-going-a-long-way-when-enneagram-ones-find-out-something-that-s-important-to-them-it-becomes-their-purpose-the-very-thing-that-moves-their-life-forward-and-measures-reality-they-can-transform-things-make-the-world-a-better-place-that-s-really-hard-work-on-enneagram-1-s-shoulders-but-it-s-also-what-guides-them-to-the-highest-feelings-and-brings-them-to-their-best-version-just-like-free-horses-running-wildly-with-blinders-trust-their-legs-an-enneagram-type-one-runs-across-the-field-relying-on-their-ideals">

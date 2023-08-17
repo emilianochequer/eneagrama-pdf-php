@@ -6,7 +6,7 @@
             </div>
             <div class="page-2-second-row">
                 <div class="p-1__hi-name-you-re-most-like">
-                    Hi  <?= $user['first_name']; ?>  : You’re most like:
+                    Hi  <?= $user['first_name']; ?>: You’re most like:
                 </div>
             </div>
             <div class="page-2-third-row">

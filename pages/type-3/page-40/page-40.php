@@ -4,14 +4,14 @@
             <div class="type-3-page-40-overlap-group">
                 <h1 class="name-s-enneagram">
                     <span class="page-40-text-wrapper">
-                         <?= $user['first_name']; ?>  &#39;s Enneagram Type 3 Journey
+                         <?= $user['first_name']; ?>&#39;s Enneagram Type 3 Journey
                         <br />
                     </span>
                     <span class="span">Final Insights and Reflections</span>
                 </h1>
                 <p class="in-conclusion-name">
                     <span class="page-40-text-wrapper-2">
-                        In conclusion  <?= $user['first_name']; ?>  , the Enneagram is a powerful tool for personal
+                        In conclusion  <?= $user['first_name']; ?> the Enneagram is a powerful tool for personal
                         growth and self-awareness, and this ebook provides a comprehensive
                         guide to understanding your Enneagram type 3. With detailed
                         descriptions of your personality traits, triads, and wings,
@@ -41,7 +41,7 @@
                     <span class="page-40-text-wrapper-2">
                         . <br />
                         <br />
-                        So what are you waiting for  <?= $user['first_name']; ?>  ? Start your journey of
+                        So what are you waiting for  <?= $user['first_name']; ?> Start your journey of
                         self-discovery and personal growth today with this Enneagram type
                         1 ebook.
                     </span>
