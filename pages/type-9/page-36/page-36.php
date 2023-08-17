@@ -10,7 +10,7 @@
                     <div class="overlap-2">
                         <div class="page-36-text-2">
                             <p class="page-36-page-36-text-wrapper-4">
-                                Strengths and Challenges for @name in the Workplace
+                                Strengths and Challenges for  <?= $user['first_name']; ?>   in the Workplace
                             </p>
                             <div>
                             </div>

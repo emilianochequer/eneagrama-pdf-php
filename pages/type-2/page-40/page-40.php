@@ -4,13 +4,13 @@
             <div class="type-2-page-40-overlap-group">
                 <h1 class="name-s-enneagram">
                     <span class="page-40-text-wrapper">
-                        @name&#39;s Enneagram Type 2 Journey
+                         <?= $user['first_name']; ?>  &#39;s Enneagram Type 2 Journey
                         <br />
                     </span>
                     <span class="span">Final Insights and Reflections</span>
                 </h1>
                 <p class="in-conclusion-name">
-                    In conclusion @name, the Enneagram is a powerful tool for personal growth and self-awareness, and
+                    In conclusion  <?= $user['first_name']; ?>  , the Enneagram is a powerful tool for personal growth and self-awareness, and
                     this ebook provides a comprehensive guide to understanding your Enneagram type 2. With detailed
                     descriptions of your personality traits, triads, and wings, you'll gain a <span
                         class="page-40-page-40-text-wrapper-3">deeper understanding of yourself</span> and your
@@ -25,7 +25,7 @@
                         class="page-40-page-40-text-wrapper-3"> understand their strengths and weaknesses, and grow as a
                         person.</span>
                     <br /><br />
-                    So what are you waiting for @name? Start your journey of self-discovery and personal growth today
+                    So what are you waiting for  <?= $user['first_name']; ?>  ? Start your journey of self-discovery and personal growth today
                     with this Enneagram type 2 ebook.
                 </p>
                 <div class="overlap">

@@ -43,8 +43,9 @@ body {
   font: 400 italic 13.44px "Roboto", sans-serif;
 }
 .p-2__image-4 {
-  width: 338.79px;
-  height: 336.1px;
+  width: 338.79px !important;
+  height: 336.1px !important;
+  font: 700 13.44px "Roboto", sans-serif !important;
 }
 
 .p-2___9 {

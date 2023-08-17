@@ -23,8 +23,6 @@ body {
   font: 700 21.51px "Roboto", sans-serif;
   display: flex;
   flex-direction: column;
- 
- 
 }
 .p-2__logo-enneagram-universe-1-1 {
   width: 158.64px;
@@ -43,8 +41,9 @@ body {
   font: 400 italic 13.44px "Roboto", sans-serif;
 }
 .p-2__image-4 {
-  width: 338.79px;
-  height: 336.1px;
+  width: 338.79px !important;
+  height: 336.1px !important;
+  font: 700 13.44px "Roboto", sans-serif !important;
 }
 
 .p-2___9 {
@@ -96,8 +95,6 @@ body {
   text-align: left;
   font: 400 16.13px "Roboto", sans-serif;
 
- 
- 
   width: 673.55px;
   height: 43.02px;
 }
@@ -106,20 +103,14 @@ body {
   text-align: left;
   font: 400 16.13px "Roboto", sans-serif;
 
- 
- 
   width: 321.32px;
   height: 352.24px;
 }
 .p-2__group-12 {
- 
- 
   overflow: visible;
 }
 
 .p-2__group-5 {
- 
- 
   overflow: visible;
 }
 .p-2__group-14 {
@@ -127,8 +118,6 @@ body {
 }
 
 .p-2__group-6 {
- 
- 
   overflow: visible;
 }
 .p-2___63 {
@@ -136,8 +125,6 @@ body {
   text-align: center;
   font: 300 40.33px "Roboto", sans-serif;
 
- 
- 
   width: 91.42px;
   height: 57.81px;
 }
@@ -146,8 +133,6 @@ body {
   text-align: center;
   font: 300 40.33px "Roboto", sans-serif;
 
- 
- 
   width: 92.76px;
   height: 57.81px;
 }
@@ -156,8 +141,6 @@ body {
   text-align: center;
   font: 300 40.33px "Roboto", sans-serif;
 
- 
- 
   width: 63.19px;
   height: 57.81px;
 }
@@ -166,8 +149,6 @@ body {
   text-align: center;
   font: 300 italic 16.13px "Roboto", sans-serif;
 
- 
- 
   width: 53.78px;
   height: 20.17px;
 }
@@ -176,8 +157,6 @@ body {
   text-align: center;
   font: 300 16.13px "Roboto", sans-serif;
 
- 
- 
   width: 34.95px;
   height: 20.17px;
 }
@@ -186,8 +165,6 @@ body {
   text-align: center;
   font: 300 16.13px "Roboto", sans-serif;
 
- 
- 
   width: 41.68px;
   height: 20.17px;
 }

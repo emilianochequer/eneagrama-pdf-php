@@ -21,7 +21,7 @@
                             knowing these combinations will help you understand some of the different features that may
                             come from the mix between two different types.
                             <br /><br />
-                            @name keep in mind that knowing what is an Enneagram and your Enneagram compatibility should
+                             <?= $user['first_name']; ?>   keep in mind that knowing what is an Enneagram and your Enneagram compatibility should
                             not determine how you like someone when meeting them for the first time. You can have a
                             relationship with any type as long as the two of you share similar ideas of what a healthy
                             relationship is and the same level of consciousness.

@@ -33,7 +33,7 @@
 
             <img class="type-7-page-8-line" alt="Line" src="pages/type-7/page-8/line-18.svg" />
             <p class="page-8-text-wrapper-3">
-                @name are you ready to find out more about your personality?
+                 <?= $user['first_name']; ?>   are you ready to find out more about your personality?
             </p>
             <div class="flex-container">
                 <div class="page-8-text">

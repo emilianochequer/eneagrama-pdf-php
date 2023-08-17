@@ -3,7 +3,7 @@
         <img class="p-17__logo-enneagram-universe-1-1" src="pages/type-8/page-18/logo-enneagram-universe-1-1.png" />
 
         <div class="p-17__tips-for-name-personal-growth">
-            Tips for @name&#039; Personal Growth
+            Tips for  <?= $user['first_name']; ?>  &#039; Personal Growth
         </div>
 
         <div

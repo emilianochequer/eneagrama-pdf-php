@@ -1,4 +1,5 @@
 <body>
+
     <div class="p-2">
         <img class="p-2__logo-enneagram-universe-1-1" src="pages/type-1/page-3/logo-enneagram-universe-1-1.png" />
 
@@ -26,7 +27,7 @@
                 <br /><br />You&#039;re a fascinating blend of different flavors, and
                 that&#039;s something to celebrate.
             </div>
-            <img class="p-2__image-4" src="pages/type-1/page-3/image-4.png" />
+            <canvas id="graph" class="p-2__image-4"></canvas>
         </div>
 
         <div class="page-3-third-row">
@@ -100,6 +101,93 @@
             <div class="p-2__enneagram-1-overview">Enneagram 1 Overview</div>
         </div>
     </div>
+    <script>
+    Chart.register(ChartDataLabels);
+    const _chart_colors = ["#DBA5D0", "#705E92", "#7686CB", "#4EC1C9", "#1EB88E", "#C8CE2C", "#F9BA27", "#F97F30",
+        "#FF8B8F"
+    ];
+    const _chart_data = <?= json_encode($chart_data); ?>;
+
+    const config = {
+        type: "polarArea",
+        data: {
+            labels: ["1", "2", "3", "4", "5", "6", "7", "8", "9"],
+            datasets: [{
+                data: _chart_data,
+                backgroundColor: [_chart_colors[0], _chart_colors[1], _chart_colors[2], _chart_colors[3],
+                    _chart_colors[4], _chart_colors[5], _chart_colors[6], _chart_colors[7],
+                    _chart_colors[8]
+                ],
+                datalabels: {
+                    formatter: (value, context) => {
+                        console.log(context);
+                        return context.dataIndex + 1
+                    },
+                    color: "#ffffff",
+                    weight: '700',
+                    family: 'Roboto'
+                },
+            }, ]
+        },
+        options: {
+            responsive: true,
+            layout: {
+                padding: {
+                    top: 0,
+                    right: 0,
+                    bottom: 0,
+                    left: 0
+                },
+                autoPadding: false
+            },
+            scales: {
+                r: {
+                    display: false,
+                    angleLines: {
+                        display: false,
+                        backdropPadding: {
+                            x: 0,
+                            y: 0
+                        }
+                    },
+                    ticks: {
+                        display: false,
+                        backdropPadding: {
+                            x: 0,
+                            y: 0
+                        }
+                    },
+                    pointLabels: {
+                        display: false,
+                        backdropPadding: {
+                            x: 0,
+                            y: 0
+                        }
+                    }
+                }
+            },
+            plugins: {
+                legend: {
+                    display: false
+                },
+                datalabels: {
+                    color: '#ffffff',
+                    formatter: function(value) {
+                        return Math.round(value) + '%';
+                    },
+                    font: {
+                        weight: '700',
+                        size: 20,
+                        family: 'Roboto',
+                    }
+                }
+            }
+        }
+    }
+
+    const chart = new Chart('graph', config);
+    </script>
+
 </body>
 <style>
 <?php include 'pages/type-1/page-3/style.css';
