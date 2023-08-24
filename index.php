@@ -65,7 +65,7 @@ $user_test = [
 ];
 
 $enneatype = $user_test['test_result'];
-$enneatype = 2;
+$enneatype = 1;
 
     $chart_data = [];
 
