@@ -10,7 +10,7 @@
                 enneatypes based on your answers.
             </div>
         </div>
-
+        <br/>
         <div class="page-3-second-row">
             <div
                 class="p-2__so-here-s-the-deal-with-your-enneagram-test-results-while-it-indicates-your-dominant-enneagram-type-it-s-pretty-cool-that-you-ve-got-high-scores-spread-across-other-types-that-means-you-ve-got-a-mix-of-personality-traits-from-those-types-in-particular-it-s-like-having-a-diverse-and-complex-personality-buffet-having-multiple-enneagram-types-with-high-scores-suggests-you-ve-got-this-amazing-ability-to-adapt-and-be-versatile-in-different-situations-it-also-means-you-see-and-understand-the-world-from-various-perspectives-and-angles-you-re-a-fascinating-blend-of-different-flavors-and-that-s-something-to-celebrate">
